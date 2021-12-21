@@ -1,4 +1,4 @@
 # Electricity-Meter-Detection using Detectron2
 
-![Screenshot](Electricity Meter Detection.png)
+![alt text](https://github.com/awaisahmadfg/Electricity-Meter-Detection/Electricity-Meter-Detection.png)
 
